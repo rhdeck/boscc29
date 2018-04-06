@@ -4,7 +4,7 @@
 
 * [PPT](https://github.com/rhdeck/boscc29/raw/master/BOSCC%20AI%20On%20Your%20Phone%20040718.pptx)
 * [PDF](https://github.com/rhdeck/boscc29/raw/master/BOSCC%20AI%20On%20Your%20Phone%20040718.pdf)
-* Slideshare:
+* [Slideshare](https://www.slideshare.net/RayDeck1/ai-on-your-phone-coreml-and-tensorflow-lite)
 
 ## Resources
 
