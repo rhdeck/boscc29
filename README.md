@@ -1,4 +1,4 @@
-# boscc29
+# AI On Your Phone talk from Boston Code Camp 29
 
 ## Slides
 
