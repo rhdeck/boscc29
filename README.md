@@ -1,5 +1,8 @@
 # AI On Your Phone talk from Boston Code Camp 29
 
+## Video
+* (https://youtu.be/z8oZqRCHhfc)[Youtube]
+
 ## Slides
 
 * [PPT](https://github.com/rhdeck/boscc29/raw/master/BOSCC%20AI%20On%20Your%20Phone%20040718.pptx)
