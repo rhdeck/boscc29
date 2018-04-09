@@ -1,7 +1,7 @@
 # AI On Your Phone talk from Boston Code Camp 29
 
 ## Video
-* (https://youtu.be/z8oZqRCHhfc)[Youtube]
+* [Youtube](https://youtu.be/z8oZqRCHhfc)
 
 ## Slides
 
